@@ -17,7 +17,6 @@
 - When the call comes back successfully, reset your form state and route the user to `/movies` where they will see the updated movie in the list
 
 Movie object format:
-
 ```
 {
   id: 5,
